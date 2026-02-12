@@ -1,0 +1,8 @@
+## Interface: 110107
+## Title: EasyChatTWW
+## Notes: Simple copying of chat messages with class colors and chat filters
+## Author: enjoymygripz
+## Version: 1.1
+## SavedVariables: EasyChatTWWDB
+
+EasyChatTWW.lua 
