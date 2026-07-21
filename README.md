@@ -1,10 +1,11 @@
-# EasyChatTWW
+﻿# EasyChatTWW
 
 Simple copying of chat messages with class colors and chat filters
 
 ## Information
 
 - **Version:** 1.1
+- **Author:** enjoymygripz
 - **CurseForge:** https://www.curseforge.com/wow/addons/easychattww
 
 ## Installation
@@ -15,4 +16,4 @@ Simple copying of chat messages with class colors and chat filters
 
 ## License
 
-See LICENSE file for details.
+See license/LICENSE file if present, otherwise All Rights Reserved by the author.
